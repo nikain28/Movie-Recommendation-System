@@ -6,7 +6,7 @@ To address this, we've developed a Movie Recommendation System. This system util
 
 # How It Works
 
-The algorithm behind our system clusters movies based on user viewing patterns, allowing us to link searched movies with related clusters. This approach helps determine the probability of a movie being watched after a specific film, ensuring that our recommendations align closely with individual preferences.
+The algorithm behind the system clusters movies based on user viewing patterns, allowing us to link searched movies with related clusters. This approach helps determine the probability of a movie being watched after a specific film, ensuring that our recommendations align closely with individual preferences.
 
 # Key Features
 1. Efficient Movie Search: Users can effortlessly find movies that match their preferences without spending excessive time searching.
@@ -17,7 +17,7 @@ The algorithm behind our system clusters movies based on user viewing patterns, 
 
 # Implementation
 
-Our system employs K-Means Clustering and Association Rules to create clusters of similar movies and generate associations between them, enabling accurate and relevant recommendations.
+Employs K-Means Clustering and Association Rules to create clusters of similar movies and generate associations between them, enabling accurate and relevant recommendations.
 
 # Applications
 
